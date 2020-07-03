@@ -1,0 +1,18 @@
+body{
+  margin: 2em;
+  color: #1565c0;
+}
+
+.border-container{
+  border: 1px solid #1565c0;
+}
+
+.border-row{
+  border: 2px solid #90CAF9;
+  height: 200px;
+}
+
+
+.border-col{
+  border: 2px solid #42A5F5;
+}
